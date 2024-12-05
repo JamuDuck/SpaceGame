@@ -1,6 +1,6 @@
 import random
 
-# Void Function
+# Void Functi
 def showInstructions():
     print("Welcome to the Space Adventure Game!")
     print("Your goal is to travel from Neptune to Earth by answering questions.")
