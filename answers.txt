@@ -1,0 +1,6 @@
+What is the color of Neptune?,blue
+What is the largest planet in the Solar System?,jupiter
+Which planet has the most rings?,saturn
+Which planet is known as the 'Red Planet'?,mars
+Which planet is the 4th from the Sun?,mars
+Which planet is the 3rd from the Sun?,earth
